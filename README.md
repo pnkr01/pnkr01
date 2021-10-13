@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I'm Happy ☺ .
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pnkr01&&show_icons=true&title_color=ffffff&icon_color=bb2asf&text_color=daf7dc&bg_color=191919">
+- ![visitors](https://visitor-badge.laobi.icu/badge?pnkr01.pnkr01)
+
