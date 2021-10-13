@@ -2,11 +2,12 @@
 
 - 🔭 I’m currently working on Flutter Projects.
 - 💬 Ask me about Flutter , Python, Java any tech , non tech Fields.
-- 📫 How to reach me: [LinkedIn : Pawan Kumar](https://www.linkedin.com/in/pawan-k-9490581b5/)
-- Ask me kuchbhi  : pawankumar49871@gmail.com 
-- 😄 Pronouns: He/ His
-- ⚡ Fun fact: I'm Happy ☺ .
+
 <br>
+<a href="https://www.linkedin.com/in/pawan-k-9490581b5/">
+  <img align="left" alt="Abhishek's Linkdein" width="40px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
+</a>
+</br></br>
 
 <br>
 <a href="https://github.com/pnkr01">
