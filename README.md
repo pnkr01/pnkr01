@@ -1,14 +1,18 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Flutter Projects.
-- 🌱 I’m currently learning Flutter and building cool apps.
-- 👯 I’m looking to collaborate on Developing apps in flutter.
-- 🤔 I’m looking for help with Api Calls in flutter / Api Integration
 - 💬 Ask me about Flutter , Python, Java any tech , non tech Fields.
 - 📫 How to reach me: [LinkedIn : Pawan Kumar](https://www.linkedin.com/in/pawan-k-9490581b5/)
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I'm Happy ☺ .
+<br>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=pnkr01&&show_icons=true&title_color=ffffff&icon_color=bb2asf&text_color=daf7dc&bg_color=191919">
-- ![visitors](https://visitor-badge.laobi.icu/badge?pnkr01.pnkr01)
+<br>
+<a href="https://github.com/pnkr01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoshi26&theme=dark&hide_langs_below=1" height="220px"/>
+</a>
+<a href="https://github.com/pnkr01">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pnkr01&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats" height="220px" />
+</a>
 
+<br><br>
