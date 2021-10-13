@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/main/img/maypunk.gif"   width="100%" height="auto">
 
 <div align="center">
-<img align="center" src="https://raw.githubusercontent.com/pnkr01/pnkr01/242d03f0d8b4e4d5a39c2c5feaf90bc5ef69dd72/source/typing.svg" alt="Welcome">
+<img align="center" src="https://raw.githubusercontent.com/pnkr01/pnkr01/449ba07cfb4aa558e6df7f85e45e005b7a7444e7/source/typing.svg" alt="Welcome">
 </div>
 
 <h2 align="center"> Hi there, I'm Pawan <img src="https://raw.githubusercontent.com/pnkr01/pnkr01/main/source/hi.gif" width="28px" alt="hi"></h2>
