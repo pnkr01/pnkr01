@@ -22,7 +22,8 @@ Member of [Codex](https://github.com/codex-iter) <br><br>
  🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/pnkr01/count.svg?align=center)
 
-[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnkr01)](https://github.com/anuraghazra/github-readme-stats)
+[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnkr01)](https://github.com/anuraghazra/github-readme-stats) <br><br>
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pnkr01&theme=tokyonight)
 
 ---
 <h2>🛠Tech Stack</h2>
