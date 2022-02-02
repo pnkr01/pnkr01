@@ -6,9 +6,9 @@
 
 <h2 align="center"> Hi there, I'm Pawan <img src="https://raw.githubusercontent.com/pnkr01/pnkr01/main/source/hi.gif" width="28px" alt="hi"></h2>
 
- - 🔭 I’m currently working on Flutter Projects.  
+ - 🔭 I’m currently working on next Flutter Project.  
    
-  -   💬 Ask me about    Flutter , Python, Java any tech , non tech Fields.
+  -   💬 Ask me about Flutter, Python, Java any tech, non tech fields.
 <br>
 <a href="https://www.linkedin.com/in/pawan-k-9490581b5/">
   <img align="left" alt="Abhishek's Linkdein" width="40px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
@@ -16,9 +16,9 @@
 </br></br>
 
 
-- Ask me kuchbhi  : pawankumar49871@gmail.com 
+- Connect with me : pawankumar49871@gmail.com (✉)
 - 😄 Pronouns: He/ His
-- ⚡ Fun fact: I'm Happy ☺ .
+- ⚡ Fun fact: Happily building apps that helps society.
 
 <br></br>
 
