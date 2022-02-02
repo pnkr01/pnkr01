@@ -8,7 +8,8 @@
 <h2>About me</h2>
 
 I am Pawan Kumar,currently a Second year Undergraduate student pursuing BTech in Computer Science from Institute of Technical Education and Research with skills in developing and deploying application in flutter.
-Skilled in Android Studio,Java,Data Structures,Flutter,Dart. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+Skilled in Android Studio,Java,Data Structures,Flutter,Dart. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. <br><br>
+Member of [Codex](https://github.com/codex-iter) <br><br>
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 
