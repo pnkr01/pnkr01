@@ -12,9 +12,21 @@ Skilled in Android Studio,Java,Data Structures,Flutter,Dart. I am very keen to l
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 
+---
+
+ 📶 Stats:<br><br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnkr01&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+ 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/pnkr01/count.svg?align=center)
+
+[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnkr01)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 <h2>🛠Tech Stack</h2>
 
-Languages  
+Languages <br> 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,8 +35,11 @@ Languages
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
+---
 
+[![Pawan's github activity graph](https://activity-graph.herokuapp.com/graph?username=pnkr01&theme=react-dark)](https://github.com/pnkr01/github-readme-activity-graph)
 
+---
 
 📫Connect with me:
 
