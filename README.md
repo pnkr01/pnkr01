@@ -6,14 +6,13 @@
   <img align="left" alt="Pawan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
+<img align="right" alt="GIF" src="https://github.com/pnkr01/pnkr01/blob/main/source/code.gif"?raw=true" width="500" height="320" />
+<br>
 <h2>About me</h2>
-
 I am Pawan Kumar,currently a second year undergraduate student pursuing BTech in computer science from Institute of Technical Education and Research with skills in developing and deploying cross platform application in flutter.
 Skilled in Flutter,Dart,Java I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. <br><br>
 <br>
 ⚡ Fun fact: I am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 💼 any freelance work? do reach, <a href="mailto:pawankumar49871@gmail.com">email </a> :) <br>
 - 💬 ask me about anything, i am happy to help;
 
@@ -25,7 +24,7 @@ Skilled in Flutter,Dart,Java I am very keen to learn new technologies and use th
  ---
  🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/pnkr01/count.svg?align=center)
-
+ ---
 [![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnkr01)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pnkr01&theme=tokyonight)
 
