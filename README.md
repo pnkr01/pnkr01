@@ -1,17 +1,21 @@
 <h2 align="center">Hi, I'm Pawan Kumar <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
- 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJ1r_aL4ZWUapqnJsWQrTgA?style=social)](https://www.youtube.com/channel/UCJ1r_aL4ZWUapqnJsWQrTgA)
-[![GitHub followers](https://img.shields.io/github/followers/pnkr01?style=social)](https://github.com/pnkr01)
-
-<h2 align="center"><img src="https://user-images.githubusercontent.com/83778936/152190784-3dcb8151-55f5-4f5a-a5cf-d4b7910d0ce9.gif"></h2>
-
+<a href="https://www.instagram.com/pawan.21_7/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/pawan-k-9490581b5/">
+  <img align="left" alt="Pawan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br>
 <h2>About me</h2>
 
-I am Pawan Kumar,currently a Second year Undergraduate student pursuing BTech in Computer Science from Institute of Technical Education and Research with skills in developing and deploying application in flutter.
-Skilled in Android Studio,Java,Data Structures,Flutter,Dart. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. <br><br>
-Member of [Codex](https://github.com/codex-iter) <br><br>
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, I will be more than happy to help :D
+I am Pawan Kumar,currently a second year undergraduate student pursuing BTech in computer science from Institute of Technical Education and Research with skills in developing and deploying cross platform application in flutter.
+Skilled in Flutter,Dart,Java I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. <br><br>
+<br>
+⚡ Fun fact: I am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- 💼 any freelance work? do reach, <a href="mailto:pawankumar49871@gmail.com">email </a> :) <br>
+- 💬 ask me about anything, i am happy to help;
 
 ---
 
@@ -28,7 +32,15 @@ Member of [Codex](https://github.com/codex-iter) <br><br>
 ---
 <h2>🛠Tech Stack</h2>
 
-Languages <br> 
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,12 +55,7 @@ Languages <br>
 
 ---
 
-📫Connect with me:
 
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/pawan-k-9490581b5/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://www.youtube.com/channel/UCJ1r_aL4ZWUapqnJsWQrTgA)
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:pawankumar49871@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/pawan.21_7/)
 
 
