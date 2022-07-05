@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/pawan.21_7/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/pawan-k-9490581b5/">
+<a href="https://www.linkedin.com/in/pawan-kumar-9490581b5/">
   <img align="left" alt="Pawan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
